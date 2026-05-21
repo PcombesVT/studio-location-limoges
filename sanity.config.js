@@ -6,7 +6,7 @@ import { schemaTypes } from './schemaTypes';
 export default defineConfig({
   name: 'default',
   title: 'Location Limoges',
-  projectId: 'vhric00l',
+  projectId: 'vhric00i',
   dataset: 'production',
   plugins: [structureTool(), visionTool()],
   schema: {
